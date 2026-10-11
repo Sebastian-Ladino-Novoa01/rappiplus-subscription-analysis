@@ -2,7 +2,7 @@
 
 **Live dashboard (Tableau Public):** [View dashboard](https://public.tableau.com/views/RappiPlusDashboard_17916413859700/RappiPlusOverviewEjecutivoenerojunio2025)
 
-![Executive overview](images/overview.png)
+![Executive overview](overview.png)
 
 ## Business context
 RappiPlus is a subscription service within Rappi's ecosystem, designed to increase purchase frequency and revenue per user. The business team wasn't sure the service was working. This end-to-end analysis answers six questions, from data quality to an executive dashboard.
@@ -47,11 +47,11 @@ Python (pandas, statsmodels) · SQL (PostgreSQL: CTEs, window functions, CASE) �
 
 **6. Dashboard (Tableau):** executive overview (KPIs, monthly trend, YTD revenue, profit by product) and a detail view with conditional formatting, filters and click-to-filter drill-through. All figures validated against Python.
 
-![Detail view](images/detail.png)
+![Detail view](detail.png)
 
 ## Repository structure
 - `rappiplus_analysis.ipynb` — full analysis notebook, Steps 1–5 (commentary in Spanish)
-- `data/` — cleaned datasets (orders, catalog, marketing)
+- `Data/` — cleaned datasets (orders, catalog, marketing)
 - `images/` — dashboard screenshots
 
 ## Author
