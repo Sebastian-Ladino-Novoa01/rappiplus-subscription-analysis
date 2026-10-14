@@ -52,7 +52,7 @@ Python (pandas, statsmodels) · SQL (PostgreSQL: CTEs, window functions, CASE) �
 ## Repository structure
 - `rappiplus_analysis.ipynb` — full analysis notebook, Steps 1–5 (commentary in Spanish)
 - `Data/` — cleaned datasets (orders, catalog, marketing)
-- `images/` — dashboard screenshots
+- `overview.png`, `detail.png` — dashboard screenshots
 
 ## Author
 Sebastián Ladino Novoa — Data Analyst | Trilingual (ES/EN/PT)
